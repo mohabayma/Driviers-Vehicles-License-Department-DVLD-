@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD", "DVLD.csproj", "{608BFF0D-2CEA-4212-92F0-CA26F78263EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD - Buseniss Layer", "..\DVLD - Buseniss Layer\DVLD - Buseniss Layer.csproj", "{A6C67840-D2E6-41E1-9EE7-EE067D3ED396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD - Data Access Layer", "..\DVLD - Data Access Layer\DVLD - Data Access Layer.csproj", "{ABE18321-A1D8-4BC7-BC93-8A79C38F7CDE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DVLD Setup", "C:\Users\dell\source\repos\DVLD Setup\DVLD Setup.vdproj", "{8A10DFBF-8E3B-1B8E-7B78-286D19C7374F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608BFF0D-2CEA-4212-92F0-CA26F78263EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608BFF0D-2CEA-4212-92F0-CA26F78263EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608BFF0D-2CEA-4212-92F0-CA26F78263EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608BFF0D-2CEA-4212-92F0-CA26F78263EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C67840-D2E6-41E1-9EE7-EE067D3ED396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C67840-D2E6-41E1-9EE7-EE067D3ED396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C67840-D2E6-41E1-9EE7-EE067D3ED396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C67840-D2E6-41E1-9EE7-EE067D3ED396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE18321-A1D8-4BC7-BC93-8A79C38F7CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE18321-A1D8-4BC7-BC93-8A79C38F7CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE18321-A1D8-4BC7-BC93-8A79C38F7CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE18321-A1D8-4BC7-BC93-8A79C38F7CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A10DFBF-8E3B-1B8E-7B78-286D19C7374F}.Debug|Any CPU.ActiveCfg = Debug
+		{8A10DFBF-8E3B-1B8E-7B78-286D19C7374F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA4D34BD-E4F5-42B0-BA0B-010243153B2D}
+	EndGlobalSection
+EndGlobal
