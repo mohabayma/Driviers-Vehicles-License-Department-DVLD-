@@ -1,0 +1,9 @@
+D:\DVLD - Buseniss Layer\bin\Release\DVLD - Buseniss Layer.dll
+D:\DVLD - Buseniss Layer\bin\Release\DVLD - Buseniss Layer.pdb
+D:\DVLD - Buseniss Layer\bin\Release\DVLD - Data Access Layer.dll
+D:\DVLD - Buseniss Layer\bin\Release\DVLD - Data Access Layer.pdb
+D:\DVLD - Buseniss Layer\obj\Release\DVLD - Buseniss Layer.csproj.AssemblyReference.cache
+D:\DVLD - Buseniss Layer\obj\Release\DVLD - Buseniss Layer.csproj.CoreCompileInputs.cache
+D:\DVLD - Buseniss Layer\obj\Release\DVLD - B.C5EA58BE.Up2Date
+D:\DVLD - Buseniss Layer\obj\Release\DVLD - Buseniss Layer.dll
+D:\DVLD - Buseniss Layer\obj\Release\DVLD - Buseniss Layer.pdb

@@ -1,0 +1,6 @@
+D:\DVLD - Data Access Layer\bin\Release\DVLD - Data Access Layer.dll
+D:\DVLD - Data Access Layer\bin\Release\DVLD - Data Access Layer.pdb
+D:\DVLD - Data Access Layer\obj\Release\DVLD - Data Access Layer.csproj.AssemblyReference.cache
+D:\DVLD - Data Access Layer\obj\Release\DVLD - Data Access Layer.csproj.CoreCompileInputs.cache
+D:\DVLD - Data Access Layer\obj\Release\DVLD - Data Access Layer.dll
+D:\DVLD - Data Access Layer\obj\Release\DVLD - Data Access Layer.pdb
