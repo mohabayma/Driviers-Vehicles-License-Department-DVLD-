@@ -1,7 +1,7 @@
 Driver Vehicles License Department (DVLD)
 Overview
 
-Driver Vehicles License Department (DVLD) is a Windows desktop application designed to manage driver and vehicle licenses efficiently. It allows issuing local and international licenses, managing users and drivers, and tracking the full history of issued licenses.
+Driver Vehicles License Department (DVLD) is a Windows desktop application designed to manage driver and vehicle licenses efficiently. It allows issuing local and international licenses, renewing expired licenses, and creating replacements for lost or damaged ones. It also manages users, drivers, and tracks the full history of issued licenses.
 
 This project is built using C#, ADO.NET, and .NET Framework (Windows Forms) with a SQL Server backend.
 
@@ -14,6 +14,10 @@ Issue Local & International licenses.
 Complete testing flow: Vision Test → Written Test → Street Test.
 
 Issue license for the first time upon successful tests.
+
+Renew expired licenses.
+
+Create replacement licenses (for lost or damaged licenses).
 
 Person, Driver & User Management
 
@@ -35,7 +39,7 @@ History & Tracking
 
 View license history per driver (local & international).
 
-Track number of issued, detained, and released licenses.
+Track number of issued, renewed, detained, replaced, and released licenses.
 
 Authentication & Security
 
